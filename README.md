@@ -1,0 +1,1 @@
+Bu birinchi loyiha deploy qilingan
